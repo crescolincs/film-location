@@ -6,9 +6,9 @@ title = 'Invest in UK Visitor Economy, Greater Lincolnshire provides Visitor Eco
   image_q_f = 'q_auto,f_auto/'
   imagedomain = 'https://res.cloudinary.com/lincs/image/upload/'
 
-#[module]
-#  [[module.imports]]
-#    path = "github.com/crescolincs/lincs-theme"
+[module]
+  [[module.imports]]
+    path = "github.com/crescolincs/lincs-theme"
 
 #Update hugo modules (in our case the theme)$> hugo mod get -u 
 
