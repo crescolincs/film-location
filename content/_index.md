@@ -1,7 +1,7 @@
 ---
 title: "Greater Lincolnshire's Film Locations: Key Benefits and Opportunities"
 socialimage: 'https://res.cloudinary.com/lincs/image/upload/visitor-economy-header.png'
-sector: visitor-economy
+sector: film
 seoDescription: >-
               For production companies, Greater Lincolnshire combines diverse locations and a proven track record with affordability, accessibility and dedicated support from the Film Lincolnshire team.
 ctaarrowclrdark: '#80244e'             
