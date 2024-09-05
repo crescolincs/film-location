@@ -68,7 +68,7 @@ offerfeatures:
      ctatext: about Lincolnshire's diverse filming locations 
 
    - heading: A Proven Track Record, and Untapped Potential
-     image: https://res.cloudinary.com/lincs/image/upload/B_KING_REC709_STILLS_R3__1.8.1R2.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/v1725549775/theking.jpg
      lead: >-
            Greater Lincolnshire has a proven track record of support to HETV, Feature and other levels of production.
      body: >-
@@ -163,10 +163,10 @@ articles:
   heading: Articles for Film Location Opportunities in Lincolnshire
 sectorCTA:
   display: true
-  bgcolor: dark
-  headingcolor: light
-  buttoncolor: '#e75a13'
-  buttonhover: '#af0000'
+  bgcolor: light
+  headingcolor: mid
+  buttoncolor: '#b9bf15'
+  buttonhover: '#004650'
   image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-brochure.png
   heading: Get All the Facts About the Greater Lincolnshire Film Location Opportunity 
   lead: >-
@@ -189,6 +189,6 @@ sectorCTA:
        value: visitor-economy       
      - field: cc
        value: investment@lincolnshire.gov.uk  
-  footerimg: https://res.cloudinary.com/lincs/image/upload/red-half-grad.png 
+  footerimg: https://res.cloudinary.com/lincs/image/upload/green-half-grad.png 
 ---
 
