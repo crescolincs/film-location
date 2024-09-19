@@ -158,9 +158,6 @@ support:
   ctatext: about the support services available from Film Lincolnshire
   image: https://res.cloudinary.com/lincs/image/upload/red-grad
 
-articles:
-  display: false
-  heading: Articles for Film Location Opportunities in Lincolnshire
 sectorCTA:
   display: true
   bgcolor: light
