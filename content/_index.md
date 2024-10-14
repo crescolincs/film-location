@@ -19,7 +19,7 @@ investmentopportunity:
   heading: 'The Greater Lincolnshire Film Location Opportunity'
   subheading: 'For production companies,  Lincolnshire offers:'
   offer:
-   - icon: 'https://res.cloudinary.com/lincs/image/upload/market.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Proven Track Record'
      description: 'Supporting HETV, Feature and other levels of production' 
    - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
@@ -28,19 +28,19 @@ investmentopportunity:
    - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Accessibility'
      description: 'Easy access (and permissions) to varied and adaptable filming locations'           
-   - icon: 'https://res.cloudinary.com/lincs/image/upload/cost-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Cost Advantages'
      description: 'Significant cost advantages versus key competitor locations'
-   - icon: 'https://res.cloudinary.com/lincs/image/upload/tourism-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Reduced Interruptions'
      description: 'Relatively low visitor numbers and population densities'
-   - icon: 'https://res.cloudinary.com/lincs/image/upload/tourism-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Low Congestion'
      description: 'Enabling ease of movement and large road closures'     
-   - icon: 'https://res.cloudinary.com/lincs/image/upload/investor-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Transport Connectivity'
      description: 'Proximity and easy access to the UK’s primary production hubs'
-   - icon: 'https://res.cloudinary.com/lincs/image/upload/support-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Dedicated Support'
      description: 'From the Film Lincolnshire team and local partner organisations'    
              
@@ -164,7 +164,7 @@ sectorCTA:
   headingcolor: mid
   buttoncolor: '#b9bf15'
   buttonhover: '#004650'
-  image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-brochure.png
+  image: https://res.cloudinary.com/lincs/image/upload/Film-Location-Brochure-Cover.png
   heading: Get All the Facts About the Greater Lincolnshire Film Location Opportunity 
   lead: >-
      Our Film Location Opportunity brochure provides essential information and data for production companies considering and evaluating Greater Lincolnshire as a potential film location, including:                                       
