@@ -198,7 +198,35 @@ support:
     for production companies, making it straightforward to find locations,
     negotiate permissions and permits, and access a range of local services.
   ctatext: about the support services available from Film Lincolnshire
-  image: https://res.cloudinary.com/lincs/image/upload/red-grad
-marketopportunity:
-  display: false
+  image: https://res.cloudinary.com/lincs/image/upload/v1730908663/Film-Green-Shapes.png
+
+sectorCTA:
+  display: true
+  bgcolor: light
+  headingcolor: mid
+  buttoncolor: '#b9bf15'
+  buttonhover: '#004650'
+  image: https://res.cloudinary.com/lincs/image/upload/Film-Location-Brochure-Cover.png
+  heading: Get All the Facts About the Greater Lincolnshire Film Location Opportunity 
+  lead: >-
+     Our Film Location Opportunity brochure provides essential information and data for production companies considering and evaluating Greater Lincolnshire as a potential film location, including:                                       
+  brochurecontents:
+    - highlight: Diverse, accessible locations
+    - highlight: A proven film production track record
+    - highlight: Available, low-cost facilities & services
+    - highlight: Responsive road control & closures
+    - highlight: Proximity to UK production hubs
+    - highlight: Supportive local partner organisations
+    - highlight: Regional sustainability commitments
+    - highlight: Dedicated support for your film production 
+  contentscolour: 'text-white'
+  formhandler: brochurerequest
+  hiddenformfields:
+     - field: brochure
+       value: invest-lincs-film-location
+     - field: page
+       value: film-location       
+     - field: cc
+       value: investment@lincolnshire.gov.uk  
+  footerimg: https://res.cloudinary.com/lincs/image/upload/v1730908662/Call-to-Action-Shapes.png 
 ---
