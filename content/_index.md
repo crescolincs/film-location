@@ -27,7 +27,7 @@ investmentopportunity:
     - icon: https://res.cloudinary.com/lincs/image/upload/v1730908662/Accessibility.svg
       title: Accessibility
       description: Easy access (and permissions) to varied and adaptable filming locations
-    - icon: https://res.cloudinary.com/lincs/image/upload/v1730910857/Cost-Advantages.svg
+    - icon: https://res.cloudinary.com/lincs/image/upload/v1730914963/Cost_Advantages.svg
       title: Cost Advantages
       description: Significant cost advantages versus key competitor locations
     - icon: https://res.cloudinary.com/lincs/image/upload/v1730908664/Reduced-Interuptions.svg
