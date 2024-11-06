@@ -206,7 +206,7 @@ sectorCTA:
   headingcolor: mid
   buttoncolor: '#b9bf15'
   buttonhover: '#004650'
-  image: https://res.cloudinary.com/lincs/image/upload/Film-Location-Brochure-Cover.png
+  image: https://res.cloudinary.com/lincs/image/upload/v1730908664/Film-Locations-Mock-up.png
   heading: Get All the Facts About the Greater Lincolnshire Film Location Opportunity 
   lead: >-
      Our Film Location Opportunity brochure provides essential information and data for production companies considering and evaluating Greater Lincolnshire as a potential film location, including:                                       
