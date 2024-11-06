@@ -12,7 +12,7 @@ hero:
   blurb: For production companies, Greater Lincolnshire combines diverse locations
     and a proven track record with affordability, accessibility and dedicated
     support from the Film Lincolnshire team.
-  heroImg: https://res.cloudinary.com/lincs/image/upload/visitor-economy-header.png
+  heroImg: https://res.cloudinary.com/lincs/image/upload/v1730908669/Invest-Lincs-Hero-Image.png
 investmentopportunity:
   display: true
   heading: The Greater Lincolnshire Film Location Opportunity
@@ -58,7 +58,7 @@ sectorCTA:
   footerimg: https://res.cloudinary.com/lincs/image/upload/green-half-grad.png
   buttonhover: "#004650"
   buttoncolor: "#b9bf15"
-  image: https://res.cloudinary.com/lincs/image/upload/Film-Location-Brochure-Cover.png
+  image: https://res.cloudinary.com/lincs/image/upload/v1730908664/Film-Locations-Mock-up.png
   lead: "Our Film Location Opportunity brochure provides essential information and
     data for production companies considering and evaluating Greater
     Lincolnshire as a potential film location,
