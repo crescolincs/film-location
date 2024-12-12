@@ -19,7 +19,7 @@ investmentopportunity:
   subheading: "For production companies,  Lincolnshire offers:"
   offer:
     - icon: https://res.cloudinary.com/lincs/image/upload/v1730908662/Proven-Track-Record.svg
-      title: Proven Track Record 
+      title: Proven Track Record
       description: Supporting HETV, Feature and other levels of production
     - icon: https://res.cloudinary.com/lincs/image/upload/v1730908663/Distinctive-Locations.svg
       title: Distinctive Locations
