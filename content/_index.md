@@ -211,7 +211,7 @@ sectorCTA:
   lead: >-
      Our Film Location Opportunity brochure provides essential information and data for production companies considering and evaluating Greater Lincolnshire as a potential film location, including:                                       
   brochurecontents:
-    - highlight: Diverse, accessible locations
+    - highlight: Diverse, accessible locations 
     - highlight: A proven film production track record
     - highlight: Available, low-cost facilities & services
     - highlight: Responsive road control & closures
