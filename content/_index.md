@@ -73,7 +73,6 @@ sectorCTA:
     - highlight: Supportive local partner organisations
     - highlight: Regional sustainability commitments
     - highlight: Dedicated support for your film production
-    - highlight: Destination cost comparisons
 socialimage: https://res.cloudinary.com/lincs/image/upload/visitor-economy-header.png
 offerfeatures:
   display: true
